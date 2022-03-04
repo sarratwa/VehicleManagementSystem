@@ -1,0 +1,18 @@
+c:\users\sarra\onedrive\documents\visual studio 2012\Projects\Gestion de Location de voitures\Gestion de Location de voitures\bin\Debug\Gestion de Location de voitures.exe.config
+C:\Users\sarra\onedrive\documents\visual studio 2012\Projects\Gestion de Location de voitures\Gestion de Location de voitures\obj\Debug\Gestion de Location de voitures.vbproj.GenerateResource.Cache
+C:\Users\sarra\onedrive\documents\visual studio 2012\Projects\Gestion de Location de voitures\Gestion de Location de voitures\bin\Debug\Gestion de Location de voitures.exe
+C:\Users\sarra\onedrive\documents\visual studio 2012\Projects\Gestion de Location de voitures\Gestion de Location de voitures\bin\Debug\Gestion de Location de voitures.pdb
+C:\Users\sarra\onedrive\documents\visual studio 2012\Projects\Gestion de Location de voitures\Gestion de Location de voitures\bin\Debug\Gestion de Location de voitures.xml
+C:\Users\sarra\onedrive\documents\visual studio 2012\Projects\Gestion de Location de voitures\Gestion de Location de voitures\obj\Debug\Gestion_de_Location_de_voitures.Resources.resources
+C:\Users\sarra\onedrive\documents\visual studio 2012\Projects\Gestion de Location de voitures\Gestion de Location de voitures\obj\Debug\Gestion de Location de voitures.exe
+C:\Users\sarra\onedrive\documents\visual studio 2012\Projects\Gestion de Location de voitures\Gestion de Location de voitures\obj\Debug\Gestion de Location de voitures.xml
+C:\Users\sarra\onedrive\documents\visual studio 2012\Projects\Gestion de Location de voitures\Gestion de Location de voitures\obj\Debug\Gestion de Location de voitures.pdb
+C:\Users\sarra\onedrive\documents\visual studio 2012\Projects\Gestion de Location de voitures\Gestion de Location de voitures\obj\Debug\Gestion_de_Location_de_voitures.MonCompte.resources
+C:\Users\sarra\onedrive\documents\visual studio 2012\Projects\Gestion de Location de voitures\Gestion de Location de voitures\obj\Debug\Gestion_de_Location_de_voitures._1_Login.resources
+C:\Users\sarra\onedrive\documents\visual studio 2012\Projects\Gestion de Location de voitures\Gestion de Location de voitures\obj\Debug\Gestion_de_Location_de_voitures.Clients.resources
+C:\Users\sarra\onedrive\documents\visual studio 2012\Projects\Gestion de Location de voitures\Gestion de Location de voitures\obj\Debug\Gestion_de_Location_de_voitures.Paramétres.resources
+C:\Users\sarra\onedrive\documents\visual studio 2012\Projects\Gestion de Location de voitures\Gestion de Location de voitures\obj\Debug\Gestion_de_Location_de_voitures.Voitures.resources
+C:\Users\sarra\onedrive\documents\visual studio 2012\Projects\Gestion de Location de voitures\Gestion de Location de voitures\obj\Debug\Gestion_de_Location_de_voitures._2_PagePrincipale.resources
+C:\Users\sarra\onedrive\documents\visual studio 2012\Projects\Gestion de Location de voitures\Gestion de Location de voitures\obj\Debug\Gestion_de_Location_de_voitures.CommandesClient.resources
+C:\Users\sarra\onedrive\documents\visual studio 2012\Projects\Gestion de Location de voitures\Gestion de Location de voitures\obj\Debug\Gestion_de_Location_de_voitures.CommandesSociete.resources
+C:\Users\sarra\OneDrive\Documents\Visual Studio 2012\Projects\Gestion de Location de voitures\Gestion de Location de voitures\obj\Debug\Gestion_de_Location_de_voitures.signup.resources
